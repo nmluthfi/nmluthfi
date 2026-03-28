@@ -12,9 +12,9 @@ I wrote easy-to-follow guides on running node, becoming a validator, and contrib
 ## Latest Projects <img width="48" height="48" alt="Luthfi's pixel taking a note" src="https://github.com/user-attachments/assets/fb68bfad-380d-461a-8179-1546884f38bf" />
 | Project | What It Does | Stack | Role |
 |---------|-------------|-------|-------|
-| Raycast Polymarket Plugin Extension](https://www.raycast.com/Osprey/polymarket) | Community-built Raycast extension to instantly search and track markets and traders using the macOS Finder. | React, Typescript, Node.js, Raycast, Polymarket API | Software Engineer |
-| [Nusa Crosschain Swap](https://app.idrx.co/) | Move your assets seamlessly across EVM-compatible blockchains for fast, secure, and efficient cross-chain transactions. | Next.js, TypeScript, Node.js, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, Li.Fi, Relay Protocol, XY Finance, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
-| [Nusa On/Offramp](https://app.idrx.co/) | Get in and out between crypto and fiat instantly with some of the lowest fees available. | Next.js, TypeScript, Node.js, GraphQL, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, IDRX, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
+| [Raycast Polymarket Plugin Extension](https://www.raycast.com/Osprey/polymarket) | Community-built Raycast extension to instantly search and track markets and traders using the macOS Finder. | React, Typescript, Node.js, Raycast, Polymarket API | Software Engineer |
+| [Nusa Crosschain Swap](https://app.nusa.io/trade/swap) | Move your assets seamlessly across EVM-compatible blockchains for fast, secure, and efficient cross-chain transactions. | Next.js, TypeScript, Node.js, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, Li.Fi, Relay Protocol, XY Finance, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
+| [Nusa On/Offramp](https://app.nusa.io/trade/onrampofframp) | Get in and out between crypto and fiat instantly with some of the lowest fees available. | Next.js, TypeScript, Node.js, GraphQL, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, IDRX, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
 
 <!--
 | Project | What It Does | Stack | Role |
