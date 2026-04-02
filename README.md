@@ -5,14 +5,14 @@ I built CeFi & DeFi products and founded ZuperCollective - an exclusive web3 com
 I wrote easy-to-follow guides on running node, becoming a validator, and contributing to open-source crypto projects across various blockchains on [ZuperCollective](https://github.com/zupercollective).
 
 ## What I'm Working On <img width="48" height="48" alt="Luthfi using a Macbook" src="https://github.com/user-attachments/assets/baadbf4f-1fd5-4cda-a111-fa51f147ffdc" />
-- 🔨 [Nusa Finance](https://app.nusa.io/) — The first full DeFi suite in Indonesia to swap, earn, and farm crypto.
+- 🔨 [Raycast's Polymarket Plugin](https://www.raycast.com/Osprey/polymarket) — ommunity-built Raycast extension to instantly search and track markets and traders using the macOS Finder
 - 📚 Right now, I'm learning AI Agents and vibe-coding to improve my output and prediction market. 
 - 🤝 If you're looking for PM in building CeFi and DeFi products, I would love to talk and share my input with you.
 
 ## Latest Projects <img width="48" height="48" alt="Luthfi's pixel taking a note" src="https://github.com/user-attachments/assets/fb68bfad-380d-461a-8179-1546884f38bf" />
 | Project | What It Does | Stack | Role |
 |---------|-------------|-------|-------|
-| [Raycast Polymarket Plugin Extension](https://www.raycast.com/Osprey/polymarket) | Community-built Raycast extension to instantly search and track markets and traders using the macOS Finder. | React, Typescript, Node.js, Raycast, Polymarket API | Software Engineer |
+| [Raycast Polymarket Plugin Extension](https://www.raycast.com/Osprey/polymarket) | Community-built Raycast extension to instantly search and track markets and traders using the macOS Finder. | React, Typescript, Node.js, Raycast, Polymarket API | Product Contributor |
 | [Nusa Crosschain Swap](https://app.nusa.io/trade/swap) | Move your assets seamlessly across EVM-compatible blockchains for fast, secure, and efficient cross-chain transactions. | Next.js, TypeScript, Node.js, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, Li.Fi, Relay Protocol, XY Finance, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
 | [Nusa On/Offramp](https://app.nusa.io/trade/onrampofframp) | Get in and out between crypto and fiat instantly with some of the lowest fees available. | Next.js, TypeScript, Node.js, GraphQL, REST API, PostgreSQL, Alchemy, gDRPC, Ether.js, Wagmi, IDRX, Cloudflare | Product Manager, Quality Assurance, Scrum Master |
 
@@ -30,7 +30,7 @@ I wrote easy-to-follow guides on running node, becoming a validator, and contrib
 -->
 
 ## About Me <img width="48" height="48" alt="About Luthfi" src="https://github.com/user-attachments/assets/858e18c0-188b-405a-9116-c62b42f9fee4" />
-- <img width="20" height="20" alt="Nusa Finance" src="https://github.com/user-attachments/assets/edff4a86-d241-4ea5-b0ba-53a8a6ae1583" /> Product Manager at Nusa Finance. Previously work at Indodax, IDRX, Tokenomy, and KoinWorks
+- 🧑‍🔧 I'm open to work in web3 or fintech domain. Previously work at Indodax, IDRX, Nusa, Tokenomy, and KoinWorks
 - <img width="20" height="20" alt="Bitcoin Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/960px-Bitcoin.svg.png" /> Co-Author of [Cryptocurrency Recommendation System Based on Investor Preferences Using Knowledge Graph Convolutional Network](https://ieeexplore.ieee.org/document/10698135) 
 
 ## Connect With Me <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/09310edb-cab4-4233-91f9-ffee444e926f" />
