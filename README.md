@@ -5,7 +5,7 @@ I built CeFi & DeFi products and founded ZuperCollective - an exclusive web3 com
 I wrote easy-to-follow guides on running node, becoming a validator, and contributing to open-source crypto projects across various blockchains on [ZuperCollective](https://github.com/zupercollective).
 
 ## What I'm Working On <img width="48" height="48" alt="Luthfi using a Macbook" src="https://github.com/user-attachments/assets/baadbf4f-1fd5-4cda-a111-fa51f147ffdc" />
-- 🔨 [Raycast's Polymarket Plugin](https://www.raycast.com/Osprey/polymarket) — ommunity-built Raycast extension to instantly search and track markets and traders using the macOS Finder
+- 🔨 [Raycast's Polymarket Plugin](https://www.raycast.com/Osprey/polymarket) — community-built Raycast extension to instantly search and track markets and traders using the macOS Finder
 - 📚 Right now, I'm learning AI Agents and vibe-coding to improve my output and prediction market. 
 - 🤝 If you're looking for PM in building CeFi and DeFi products, I would love to talk and share my input with you.
 
